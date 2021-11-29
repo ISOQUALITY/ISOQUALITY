@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luna
 - 👀 I’m interested in data Scienty
-- 🌱 I’m currently learning python development
+- 🌱 I’m currently learning python development anda Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
